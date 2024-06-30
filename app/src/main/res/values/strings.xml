@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FortuneToday</string>
+    <string name="image_desc">Description of the image</string>
+    <string name="button_text">운세 확인하기</string>
+</resources>
